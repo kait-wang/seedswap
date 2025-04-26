@@ -1,4 +1,5 @@
-# 🌱 SeedSwap
+#<img width="1685" alt="Screenshot 2025-04-07 at 1 10 17 PM" src="https://github.com/user-attachments/assets/b7c26cf4-c4f5-4cd9-ae4e-93857989e5ba" />
+ 🌱 SeedSwap
 
 **SeedSwap** is a community-driven web app that allows green thumbs of all kinds—novice gardeners to master planters—to **swap seeds** and **connect with other plant lovers** around the world. Whether you're overflowing with tomato seeds or hunting for that rare succulent, SeedSwap is your digital greenhouse for growing connections.
 
