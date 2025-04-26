@@ -40,3 +40,5 @@ SeedSwap celebrates the age-old practice of seed sharing — a tradition as old 
 From ancient farmers trading grains across regions to modern gardeners cultivating backyard biodiversity, the act of exchanging seeds has always been about more than just plants — it's about sustaining life, heritage, and connection. 🌾
 
 With **SeedSwap**, we’re bringing that spirit online — where green thumbs of all levels can swap, share, and sprout together.
+<img width="1718" alt="Screenshot 2025-04-07 at 1 10 48 PM" src="https://github.com/user-attachments/assets/29a02389-2b64-4ad9-94a3-7dddc5e89a57" />
+<img width="1555" alt="Screenshot 2025-04-07 at 1 15 52 PM" src="https://github.com/user-attachments/assets/b871bf7a-c868-47d8-bb23-d2b6714142de" />
