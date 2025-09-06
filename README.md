@@ -32,7 +32,7 @@ Portia Li, Grace He, Mariana Ma, Kaitlyn Wang
 
 ## Why SeedSwap?
 
-In a world filled with digital noise, **SeedSwap** is a breath of fresh air — a space for nature lovers to connect through something meaningful and tangible: growing things. 🌸
+In a world filled with digital noise, **SeedSwap** is a breath of fresh air — a space for nature lovers to connect through something meaningful and tangible: growing things. 
 
 ### Rooted in Community, Grown with Care
 
