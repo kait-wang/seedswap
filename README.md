@@ -10,7 +10,7 @@ Portia Li, Grace He, Mariana Ma, Kaitlyn Wang
 (Northwestern '27)
 
 ---
-## 🌍 Features
+## Features
 
 - **Seed Swapping**: Trade seeds with nearby users or across regions.
 - **Location-Based Matching**: Find gardeners close to you.
@@ -20,7 +20,7 @@ Portia Li, Grace He, Mariana Ma, Kaitlyn Wang
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React
 - **Backend**: Node.js, Express.js
